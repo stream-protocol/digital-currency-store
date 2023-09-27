@@ -14,10 +14,10 @@ If they are not installed, you can download and install them from the official w
 
 **2. Create a New Next.js Project:**
 
-You can use the `create-next-app` command to scaffold a new Next.js project:
+You can use the `npx create-medusa-app@latest --with-nextjs-starter` command to scaffold a new Next.js project:
 
 ```bash
-npx create-next-app digital-currency-store
+npx create-medusa-app@latest --with-nextjs-starter
 cd digital-currency-store
 ```
 
